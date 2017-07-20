@@ -1,0 +1,8 @@
+Map link:
+https://www.openstreetmap.org/node/778910398#map=10/31.2193/121.5692
+
+Map extract:
+https://mapzen.com/data/metro-extracts/metro/shanghai_china/
+
+Shagnhai is one of the major cities in China, with millions of residents. 
+I picked “Shanghai, China” as the metropolitan area due to its size and relative smaller user base, in anticipation of possible errors and inconsistency. 
