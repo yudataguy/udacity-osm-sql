@@ -1,0 +1,13 @@
+Citation: 
+
+Sample records code:
+https://classroom.udacity.com/nanodegrees/nd002/parts/0021345404/modules/316820862075463/lessons/3168208620239847/concepts/77135319070923
+
+CSV save code:
+https://classroom.udacity.com/nanodegrees/nd002/parts/0021345404/modules/316820862075461/lessons/5436095827/concepts/54908788190923
+
+CSV to sqlite reference:
+https://discussions.udacity.com/t/csv-to-sqlite-import-issue/174730
+https://stackoverflow.com/questions/31243618/python-import-csv-to-sqlite
+
+
